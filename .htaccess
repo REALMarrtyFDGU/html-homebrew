@@ -1,0 +1,5 @@
+<Directory "software">
+    Options Indexes MultiViews
+    AllowOverride None
+    Require all granted
+</Directory>
